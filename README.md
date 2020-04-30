@@ -8,8 +8,8 @@ Simple component to give star rating
     <Star count={star_rating}  total={total_no_of_stars} />
                     
                  
-  4.Sample view of the star rating component
-   *NB: The css provided is Tailwind CSS .
+ 4.Sample view of the star rating component
+ 5.NB: The css provided is Tailwind CSS .
  
  
  
