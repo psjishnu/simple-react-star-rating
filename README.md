@@ -9,6 +9,12 @@ Simple component to give star rating
                     
                  
  4 Sample view of the star rating component
+ 
+ 
+ 
+ 
+  ![Image of welcome page](https://github.com/psjishnu/test2/blob/master/star.png)
+
       
       
 
