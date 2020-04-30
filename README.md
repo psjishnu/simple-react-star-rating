@@ -6,10 +6,9 @@ Simple component to give star rating
 3 . The component can be used be 
 
 
-                    <Star count={star_rating} total={tottal_no_of_stars} />
                     
                  
- ##Sample view of the star rating component
+ 4 Sample view of the star rating component
       
       
        ![Image of welcome page](https://github.com/psjishnu/test2/blob/master/star.png)
