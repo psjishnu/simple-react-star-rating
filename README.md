@@ -9,6 +9,7 @@ Simple component to give star rating
                     
                  
  4 Sample view of the star rating component
+ NB: The css provided is Tailwind CSS .
  
  
  
