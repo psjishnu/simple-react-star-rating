@@ -14,7 +14,7 @@ Simple component to give star rating
  
  
  
-  ![Image of welcome page](https://github.com/psjishnu/test2/blob/master/star.png)
+  ![Image of welcome page](https://github.com/psjishnu/photovault/blob/master/star.png)
 
       
       
